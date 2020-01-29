@@ -1,0 +1,56 @@
+# vsim -c hw3_dec3_tb 
+# Start time: 14:41:12 on Jan 29,2020
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# //  ModelSim SE-64 10.7c Aug 17 2018Linux 3.10.0-1062.9.1.el7.x86_64
+# //
+# //  Copyright 1991-2018 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading work.hw3_dec3_tb(fast)
+#                    0 A: xxxxx= x, F: xxxxx= x
+#                   10 A: 00000= 0, F: 11101=29
+#                   20 A: 00001= 1, F: 11110=30
+#                   30 A: 00010= 2, F: 11111=31
+#                   40 A: 00011= 3, F: 00000= 0
+#                   50 A: 00100= 4, F: 00001= 1
+#                   60 A: 00101= 5, F: 00010= 2
+#                   70 A: 00110= 6, F: 00011= 3
+#                   80 A: 00111= 7, F: 00100= 4
+#                   90 A: 01000= 8, F: 00101= 5
+#                  100 A: 01001= 9, F: 00110= 6
+#                  110 A: 01010=10, F: 00111= 7
+#                  120 A: 01011=11, F: 01000= 8
+#                  130 A: 01100=12, F: 01001= 9
+#                  140 A: 01101=13, F: 01010=10
+#                  150 A: 01110=14, F: 01011=11
+#                  160 A: 01111=15, F: 01100=12
+#                  170 A: 10000=16, F: 01101=13
+#                  180 A: 10001=17, F: 01110=14
+#                  190 A: 10010=18, F: 01111=15
+#                  200 A: 10011=19, F: 10000=16
+#                  210 A: 10100=20, F: 10001=17
+#                  220 A: 10101=21, F: 10010=18
+#                  230 A: 10110=22, F: 10011=19
+#                  240 A: 10111=23, F: 10100=20
+#                  250 A: 11000=24, F: 10101=21
+#                  260 A: 11001=25, F: 10110=22
+#                  270 A: 11010=26, F: 10111=23
+#                  280 A: 11011=27, F: 11000=24
+#                  290 A: 11100=28, F: 11001=25
+#                  300 A: 11101=29, F: 11010=26
+#                  310 A: 11110=30, F: 11011=27
+#                  320 A: 11111=31, F: 11100=28
+# ** Note: $stop    : hw3_dec3_tb.v(18)
+#    Time: 330 ns  Iteration: 0  Instance: /hw3_dec3_tb
+# Break at hw3_dec3_tb.v line 18
+# Stopped at hw3_dec3_tb.v line 18
+# End time: 14:41:59 on Jan 29,2020, Elapsed time: 0:00:47
+# Errors: 0, Warnings: 0
