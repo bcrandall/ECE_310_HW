@@ -1,0 +1,186 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/afs/unity.ncsu.edu/users/b/bcranda/hw_4
+T_opt
+!s110 1580759212
+Vgg2U<oRNRV[4cBbnMKDBI2
+04 7 4 work bcd_add fast 0
+=1-00505689010e-5e3878ac-31ec9-4aed
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1580760367
+V<GZ9X2oCTY]^?bijThXhN2
+04 6 4 work bcd_tb fast 0
+=1-00505689010e-5e387d2f-1b616-584f
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1580760540
+VaKakOE?_MYMSZ;4c_TnQ31
+04 7 4 work hw4_q1c fast 0
+=1-00505689010e-5e387ddc-d6e3-5af5
+R1
+R2
+n@_opt2
+R3
+vbcd_add
+Z4 !s110 1580760534
+!i10b 1
+!s100 Nec=HO96EX;Ul8h8gho`Z0
+I9aH3anYE5g8?24Z]WVbEc3
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1580760338
+8bcd_add.v
+Fbcd_add.v
+L0 1
+Z6 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z7 !s108 1580760534.000000
+Z8 !s107 test_out.v|test_out_tb.v|hw4_q1c.v|hw4_q1b.v|f_add.v|bcd_tb.v|bcd_add.v|
+Z9 !s90 bcd_add.v|bcd_tb.v|f_add.v|hw4_q1b.v|hw4_q1c.v|test_out_tb.v|test_out.v|
+!i113 0
+Z10 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vbcd_tb
+R4
+!i10b 1
+!s100 ;>E[fhY2;SVWRUjiRDKNf1
+InheRdUnnBY]QoceR0hzD?2
+R5
+R0
+w1580760351
+8bcd_tb.v
+Fbcd_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R2
+vf_add
+R4
+!i10b 1
+!s100 JK;hDXHPEM<PCQ]VkTAmF1
+IGjLoQ5PmgSH:U1O>bE2Jl2
+R5
+R0
+w1580760317
+8f_add.v
+Ff_add.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R2
+vhw4_q1b
+R4
+!i10b 1
+!s100 D3`T:fcjeVn@^RM4K?HUg1
+IC:@2f64=h`LD^1N3TQPDB3
+R5
+R0
+w1580755610
+8hw4_q1b.v
+Fhw4_q1b.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R2
+vhw4_q1c
+R4
+!i10b 1
+!s100 LaeJ@4Zl7]DEiC<?`6DZj1
+IRGU;^idc=4KDA@ooMo9_e1
+R5
+R0
+w1580760528
+8hw4_q1c.v
+Fhw4_q1c.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R2
+vtest_out
+R4
+!i10b 1
+!s100 j;c428``0<mKA`d2X=87]2
+I2YLWM7=h9^LbNlX25NC7>2
+R5
+R0
+w1580757737
+8test_out.v
+Ftest_out.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R2
+vtest_out_tb
+R4
+!i10b 1
+!s100 4W>1dDES>Sj:P8M^gVaBE0
+I=1e<kLIZBdo:1zBl;d_Tn0
+R5
+R0
+w1580757572
+8test_out_tb.v
+Ftest_out_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R2
