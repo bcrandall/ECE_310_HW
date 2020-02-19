@@ -1,0 +1,134 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/afs/unity.ncsu.edu/users/b/bcranda/hw_5
+T_opt
+!s110 1582061126
+V_YTd89dfClkac8i^?JGLO1
+04 12 4 work sat_check_tb fast 0
+=1-00505689010e-5e4c5646-9d832-2564
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1582124545
+VW5?N4T9zfcJ>LJjdg0]?60
+04 9 4 work hw5_q1_tb fast 0
+=1-005056890111-5e4d4e01-2d25b-471f
+R1
+R2
+n@_opt1
+R3
+vdff
+Z4 !s110 1582124129
+!i10b 1
+!s100 bl;e96_bf<=dddelQgkK]1
+IECn224J8kzl2hbVa=Gmh02
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z6 w1582124121
+Z7 8hw5_q1.v
+Z8 Fhw5_q1.v
+L0 38
+Z9 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z10 !s108 1582124129.000000
+Z11 !s107 sat_check_tb.v|hw5_q1.v|hw5_q1_tb.v|
+Z12 !s90 hw5_q1_tb.v|hw5_q1.v|sat_check_tb.v|
+!i113 0
+Z13 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vhw5_q1
+R4
+!i10b 1
+!s100 9M6:T5kPGbnXAXIDJbi]00
+IK:MTI8z^M:UQBa`9h;Zlz1
+R5
+R0
+R6
+R7
+R8
+L0 1
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R2
+vhw5_q1_tb
+!s110 1582124535
+!i10b 1
+!s100 KhWm<<<``NeXHRd;doIDM2
+IG`k=`?g;^7aP3JKkADES33
+R5
+R0
+w1582124533
+8hw5_q1_tb.v
+Fhw5_q1_tb.v
+L0 1
+R9
+r1
+!s85 0
+31
+!s108 1582124535.000000
+!s107 hw5_q1_tb.v|
+!s90 hw5_q1_tb.v|
+!i113 0
+R13
+R2
+vsat_check
+R4
+!i10b 1
+!s100 i^hVCV_O9@j3jhk65H1Z`1
+IX81AQLBES34;Y5ZR2S;4Q1
+R5
+R0
+R6
+R7
+R8
+L0 21
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R2
+vsat_check_tb
+R4
+!i10b 1
+!s100 ^4a_OW7N:GO7?>T36c?RQ1
+I;M1IO1N37jf:n]]ABO<>@1
+R5
+R0
+w1582060675
+8sat_check_tb.v
+Fsat_check_tb.v
+L0 1
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R2
